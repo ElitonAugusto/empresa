@@ -1,13 +1,13 @@
-package com.empresa.empresas;
+package com.company.companies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmpresasApplication {
+public class CompanyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmpresasApplication.class, args);
+		SpringApplication.run(CompanyApplication.class, args);
 	}
 
 }
